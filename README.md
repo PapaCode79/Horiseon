@@ -2,7 +2,6 @@
 - Added Comments
 - Changed div tags to sementic HTML tags
 - Formated CSS and HTML scripts
-- Add 
 
 
 
