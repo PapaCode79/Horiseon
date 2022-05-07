@@ -1,9 +1,12 @@
 # Horiseon-code refactor
 - Added Comments
-- Changed div tags to sementic HTML tags
+- Changed title
+- Changed div syntags to sementic HTML tags
 - Formated CSS and HTML scripts
 
+## Screenshot
 
+![image](/Screenshot_horiseon.png)
 
 
 --- 
